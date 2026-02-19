@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+ehthumbs.db
+ehthumbs_vista.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
